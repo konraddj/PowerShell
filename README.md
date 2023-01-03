@@ -1,7 +1,7 @@
 # Powershell Exercises #
 ## Project Scope ##
 ![img.png](powershellscripts.png)
-This guide contains hands-on work on completing tasks with Powershell version 7. There are four folders here, with scripts and lists of commands needed to invoke the necessary information, arithmetic, installation and configuration. TThese exercises were part of the work of a student from the Infrastructure as Code module in the PGDip in Cloud Computing course at Atlantic Technological University.
+This guide contains hands-on work on completing tasks with Powershell version 7. There are four folders here, with scripts and lists of commands needed to invoke the necessary information, arithmetic, installation and configuration. These exercises were part of the work of a student from the Infrastructure as Code module in the PGDip in Cloud Computing course at Atlantic Technological University.
 #
 ## Project composition ##
 The project consists of a root directory containing four folders, each of which consists of executable files and command list files.
