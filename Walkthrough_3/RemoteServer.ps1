@@ -13,7 +13,7 @@ $DATE = Get-Date
 $DIRECTORY = $DATE.ToString('dd-MM-yyyy')
 
 # Backup VMs
-$EXPORT_PATH = Join-Path -Path "K:\" -ChildPath $DIRECTORY
+$EXPORT_PATH = Join-Path -Path "C:\" -ChildPath $DIRECTORY
 
 if(!(Test-Path $EXPORT_PATH))
 {
